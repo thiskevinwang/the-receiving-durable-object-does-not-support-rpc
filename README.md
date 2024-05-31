@@ -1,6 +1,6 @@
 > [!TIP]
 >
-> This is fixed by https://github.com/cloudflare/workers-sdk/pull/5932 🎉
+> This is fixed by https://github.com/cloudflare/workers-sdk/pull/5916; To be released by https://github.com/cloudflare/workers-sdk/pull/5932 🎉
 
 # Description
 
