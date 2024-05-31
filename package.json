@@ -1,5 +1,5 @@
 {
-	"name": "durable-object-id-is-not-valid-for-this-namespace",
+	"name": "the-receiving-durable-object-does-not-support-rpc",
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {

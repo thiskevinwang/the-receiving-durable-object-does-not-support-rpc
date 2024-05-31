@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "durable-object-id-is-not-valid-for-this-namespace"
+name = "the-receiving-durable-object-does-not-support-rpc"
 main = "src/index.ts"
 compatibility_date = "2024-05-24"
 compatibility_flags = ["nodejs_compat"]
