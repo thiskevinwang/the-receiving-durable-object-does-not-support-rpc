@@ -1,3 +1,7 @@
+> [!TIP]
+>
+> This is fixed by https://github.com/cloudflare/workers-sdk/pull/5932 🎉
+
 # Description
 
 To repro & observe the error:
