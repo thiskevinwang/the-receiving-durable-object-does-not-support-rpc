@@ -3,4 +3,3 @@
 interface Env {
 	MY_DURABLE_OBJECT: DurableObjectNamespace;
 }
-

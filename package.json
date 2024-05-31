@@ -1,16 +1,20 @@
 {
-  "name": "durable-object-id-is-not-valid-for-this-namespace",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "deploy": "wrangler deploy",
-    "dev": "wrangler dev",
-    "start": "wrangler dev",
-    "cf-typegen": "wrangler types"
-  },
-  "devDependencies": {
-    "@cloudflare/workers-types": "^4.20240529.0",
-    "typescript": "^5.0.4",
-    "wrangler": "^3.0.0"
-  }
+	"name": "durable-object-id-is-not-valid-for-this-namespace",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev",
+		"cf-typegen": "wrangler types",
+		"test": "vitest"
+	},
+	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20240529.0",
+		"typescript": "^5.0.4",
+		"vite-tsconfig-paths": "^4.3.2",
+		"wrangler": "^3.57.2",
+		"@cloudflare/vitest-pool-workers": "^0.3.0",
+		"vitest": "^1.5.3"
+	}
 }
